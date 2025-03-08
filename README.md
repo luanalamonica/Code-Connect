@@ -1,42 +1,43 @@
-# Lista de Compras 🛒
+# Code Connect 🌐
 
-Este projeto foi desenvolvido como parte do curso **JavaScript: Construindo Páginas Dinâmicas** da [Alura](https://www.alura.com.br/). A aplicação web permite que os usuários adicionem, gerenciem e visualizem itens de compras de maneira prática e interativa.
+O projeto **Code Connect** foi desenvolvido como parte do curso **JavaScript: Entendendo Promises e Async/Await** da [Alura](https://www.alura.com.br/). Trata-se de uma aplicação web interativa que explora conceitos avançados de programação assíncrona.
 
-## 📋 Sobre o projeto
+## 📋 Sobre o Projeto
 
-O **Lista de Compras** é uma aplicação web que utiliza:
-- **HTML**: Para estruturar o conteúdo da página.
-- **CSS**: Para estilizar a interface e melhorar a experiência visual.
-- **JavaScript**: Para adicionar funcionalidades dinâmicas, como manipulação do DOM e tratamento de eventos.
+O **Code Connect** utiliza:
+- **HTML**: Para a estruturação do conteúdo.
+- **CSS**: Para estilizar a interface e proporcionar uma experiência visual agradável.
+- **JavaScript**: Para implementar funcionalidades dinâmicas, utilizando promises e o modelo async/await.
 
-Durante o desenvolvimento, foram aplicados conceitos importantes para criar páginas web interativas e bem organizadas.
+O design e a prototipagem foram criados no **Figma**, garantindo uma interface bem planejada e intuitiva.
 
 ## 🚀 Funcionalidades
 
-- Adicionar novos itens à lista de compras.
-- Visualizar todos os itens adicionados.
-- Gerenciar os itens (como excluir ou marcar como concluído).
+- Exploração prática de conceitos de programação assíncrona.
+- Demonstração do uso de promises e async/await.
+- Interface visualmente atrativa e funcional.
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Figma
 
 ## 💡 Aprendizados
 
-Este projeto proporcionou o aprendizado e prática de:
-- Manipulação do DOM.
-- Organização de código JavaScript.
-- Criação e tratamento de eventos para interatividade.
+Este projeto permitiu consolidar conhecimentos sobre:
+- Programação assíncrona utilizando promises e async/await.
+- Criação de interfaces bem projetadas utilizando ferramentas como o Figma.
+- Desenvolvimento de aplicações web modernas e eficientes.
 
 ## 🎯 Como Executar
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/lista-de-compras.git
-2. Abra o arquivo `index.html` no seu navegador para visualizar a aplicação.
+   git clone https://github.com/seu-usuario/code-connect.git
+2. Abra o arquivo `index.html` no navegador para visualizar a aplicação.
 
 ## 📚 Referências
 
-Este projeto foi desenvolvido com base no curso [JavaScript: Construindo Páginas Dinâmicas](https://www.alura.com.br/) da Alura.
+Este projeto foi desenvolvido com base no curso [JavaScript: Entendendo Promises e Async/Await](https://www.alura.com.br/) da Alura.
